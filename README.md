@@ -1,6 +1,6 @@
-# GimKiller
+# GimKit CLI Botter
 
-GimKiller is a command-line utility designed to assist in massv joining live gimkit games. <br>
+Simple CLI Based botting program for Gimkit, don't use at school or anything, youll get in trouble. <br>
 Please note that the menu designs outlined in `menuDesigns.py` are preliminary and subject to change pending full implementation.
 
 ## Disclaimer
